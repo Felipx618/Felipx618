@@ -1,46 +1,34 @@
-<!-- README – Felipe (perfil) -->
-
-<h1 align="center" style="color:#FFFFFF; font-weight:700;">👋 Olá, eu sou o Felipe!</h1>
-
-<p align="center">
-  <img src="https://readme-typing­-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Cientista+de+Dados;Automação+de+Sistemas;Inteligência+Artificial" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <!-- Ícone animado / loop -->
-  <img src="URL_DO_SEU_ÍCONE_ANIMADO.gif" width="250" alt="Animado ícone IA" />
-</p>
-
-<div align="center" style="background:#0D0D0D; padding:20px; border-radius:8px;">
-### 🧠 Sobre mim  
-- 👨‍💻 Tenho **22 anos** e atuo como Cientista de Dados  
-- 🤖 Trabalho com **automação de sistemas** e **inteligência artificial**  
-- 📊 Gosto de transformar dados em decisões e tornar processos manuais em automação inteligente  
+<!-- Fundo preto com texto roxo -->  
+<div align="center" style="background-color:#000000;padding:20px;border-radius:10px;">
+  <h1 style="color:#9B59B6;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    Olá, sou <span style="color:#8E44AD;">Felipe Ávila</span> 👋  
+  </h1>
+  <p style="color:#AAAAAA;font-size:18px;">
+    Tenho <strong>22 anos</strong> · Brasil  
+  </p>
+  <p style="color:#AAAAAA;font-size:18px;">
+    <strong>Data Science</strong> · Automação com IA  
+  </p>
 </div>
 
 ---
 
-### ⚙️ Tecnologias & Ferramentas  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,tensorflow,pytorch,git,github,linux,vscode,docker,postgresql,sqlite,pandas,numpy&theme=dark" />
-</p>
+### Habilidades Principais  
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117" alt="SQL" />  
+  <img src="https://img.shields.io/badge/Automação & IA-8E44AD?style=for-the-badge&logo=robot&logoColor=white" alt="Automação e IA" />
+</div>
 
 ---
 
-### 🧩 Projetos em destaque  
-- **Projeto A** – Automação completa de sistema interno com Python + API  
-- **Projeto B** – Modelo de IA preditivo para análise de dados em tempo real  
+### Sobre mim  
+- 🎯 Foco em transformar dados em insights.  
+- 🔧 Gosto de automatizar tarefas repetitivas usando Inteligência Artificial.  
+- 🌍 Estou sempre aprendendo novas técnicas e ferramentas no universo do Data Science.  
 
 ---
 
-### 📈 Estatísticas do GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true" height="165"/>
-</p>
+### Vamos conectar?  
+> Se quiser conversar sobre projetos, ideias ou colaborações, fique à vontade para me chamar!
 
----
-
-<p align="center" style="color:#FFFFFF;">
-✨ “Transformando dados e automação em inovação.” ✨  
-</p>
