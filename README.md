@@ -1,27 +1,21 @@
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8E44AD&height=150&section=header&text=Felipe%20Ávila&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35"/>
+<!-- ╔════════════════════════════════════════╗ -->
+<!-- ║              MODERN HEADER             ║ -->
+<!-- ╚════════════════════════════════════════╝ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=140&section=header&text=Felipe%20Ávila%20&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=9B59B6&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Felipe+Ávila!;I'm+22+years+old;From+Brazil;Data+Science+Student;AI+Automation+Enthusiast;Welcome+to+my+GitHub!+🚀)](https://git.io/typing-svg)
+<!-- TITLE -->
+<h3 align="center">Turning data into intelligent decisions 💡</h3>
 
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-8E44AD?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-2C2C2C?style=for-the-badge&logo=postgresql&logoColor=9B59B6" alt="SQL"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20Automation-000000?style=for-the-badge&logo=robotframework&logoColor=9B59B6" alt="AI and Automation"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&color=00D1FF&center=true&vCenter=true&width=700&lines=Data+Science+%7C+AI+Automation+%7C+Business+Intelligence;Smart+solutions+for+strategic+decisions"/>
+</p>
 
 ---
 
-### 🌙 About Me
-<div align="center">
-  🎯 Passionate about turning data into intelligent solutions.  
-  🤖 Always exploring automation and AI applications.  
-  📚 Dedicated Data Science student, constantly learning new tools.  
-</div>
-
----
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8E44AD&height=120&section=footer"/>
+### 🧬 About Me
+```bash
+I'm 22 years old
+From Brazil
+I’m a Data Scientist passionate about AI, automation, and innovation.
+My goal is to merge technology and strategy to turn data into results.
+Focused on efficiency, clarity, and impact.
