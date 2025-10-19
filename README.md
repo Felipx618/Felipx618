@@ -1,7 +1,7 @@
 <!-- ╔════════════════════════════════════════╗ -->
 <!-- ║              MODERN HEADER             ║ -->
 <!-- ╚════════════════════════════════════════╝ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=140&section=header&text=Felipe%20Ávila%20&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=140&section=header&text=Felipe%20Arruda%20&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
 
 <!-- TITLE -->
 <h3 align="center">Turning data into intelligent decisions 💡</h3>
